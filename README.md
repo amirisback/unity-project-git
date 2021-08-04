@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ![ScreenShoot Apps](docs/image/git.png?raw=true)
 
 ## project-unity-git
+=======
+## unity-project-git
+>>>>>>> 77a9296bb451bb35c66b1384eb2a0f3f8b6e3f90
 Template save .gitignore unity project 2D games
 
 ## Colaborator
