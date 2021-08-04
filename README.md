@@ -1,4 +1,4 @@
-## project-unity-git
+## unity-project-git
 Template save .gitignore unity project 2D games
 
 ## Colaborator
