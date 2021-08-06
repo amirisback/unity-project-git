@@ -2,31 +2,26 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+
 /[Ll]ibrary/Artifacts
 /[Ll]ibrary/APIUpdater
-
 /[Ll]ibrary/il2cpp_android_arm64-v8a
 /[Ll]ibrary/il2cpp_android_armeabi-v7a
 /[Ll]ibrary/il2cpp_android_x86
 /[Ll]ibrary/Il2cppBuildCache
-
 /[Ll]ibrary/TempArtifacts
-
 /[Ll]ibrary/PackageCache
 /[Ll]ibrary/ShaderCache
 /[Ll]ibrary/StateCache
 /[Ll]ibrary/SplashScreenCache
-
 /[Ll]ibrary/ScriptAssemblies
 /[Ll]ibrary/PlayerScriptAssemblies
 /[Ll]ibrary/BuildPlayerData
 /[Ll]ibrary/PlayerDataCache
-
+/[Ll]ibrary/PackageManager
 /[Ll]ibrary/Collab
 /[Ll]ibrary/metadata
-
 /[Ll]ibrary/UnityAssemblies
-
 /[Ll]ibrary/BuildPlayerData
 
 /[Tt]emp/
@@ -38,8 +33,20 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+# File
+
+*.buildreport
+*.dwlt
+/[Ll]ibrary/SourceAssetDB
+/[Ll]ibrary/SourceAssetDB-lock
+/[Ll]ibrary/ArtifactDB
+/[Ll]ibrary/ArtifactDB-lock
+/[Ll]ibrary/EditorInstance.json
+
 ExportedObj/
 .consulo/
+
+*.DS_Store
 
 # Visual Studio cache directory
 .vs/
