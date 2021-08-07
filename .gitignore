@@ -37,11 +37,24 @@
 
 *.buildreport
 *.dwlt
+
+
 /[Ll]ibrary/SourceAssetDB
 /[Ll]ibrary/SourceAssetDB-lock
+
 /[Ll]ibrary/ArtifactDB
 /[Ll]ibrary/ArtifactDB-lock
+
 /[Ll]ibrary/EditorInstance.json
+/[Ll]ibrary/EditorOnlyScriptingSettings.json
+/[Ll]ibrary/EditorOnlyVirtualTextureState.json
+
+/[Ll]ibrary/*.prefs
+/[Ll]ibrary/expandedItems
+
+/[Ll]ibrary/EditorUserBuildSettings.asset
+/[Ll]ibrary/InspectorExpandedItems.asset
+/[Ll]ibrary/SceneVisibilityState.asset
 
 ExportedObj/
 .consulo/
