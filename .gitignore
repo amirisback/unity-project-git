@@ -23,6 +23,8 @@
 /[Ll]ibrary/metadata
 /[Ll]ibrary/UnityAssemblies
 /[Ll]ibrary/BuildPlayerData
+/[Ll]ibrary/Bee
+/[Ll]ibrary/Search
 
 /[Tt]emp/
 /[Ll]ogs/
@@ -34,6 +36,9 @@
 /[Mm]emoryCaptures/
 
 # File
+
+Assembly-CSharp.csproj
+*.sln
 
 *.buildreport
 *.dwlt
@@ -63,6 +68,7 @@ ExportedObj/
 
 # Visual Studio cache directory
 .vs/
+.vscode/
 
 # Gradle cache directory
 .gradle/
